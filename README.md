@@ -9,7 +9,7 @@
 você entende que você é sim capaz de criar, inovar e reinventar. Esse sentimento de conquista é atemporal. <br>
 📚 Livros salvam.</br>
 ⚡ Fun fact:TI pra mim é totalmente a frase de Sócrates: Só sei que nada sei.</br>
-🤔 I’m looking for help with: I need to improve my abilits in Python. So any help or resources are welcome.</br>
+🤔 I’m looking for help with: I need to improve my abilities in Python. So any help or resources are welcome.</br>
 
 ### Contato 
 
