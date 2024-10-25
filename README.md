@@ -8,8 +8,8 @@
 💻 Acredito que quando você é desafiado, não somente pelos outros mas por si mesmo, é ainda mais cativante e empolgante. Você olhar para algo em que você dedicou tempo e trabalhou, com certeza te traz maior sentimento de recompensa. E não somente isso, <br>
 você entende que você é sim capaz de criar, inovar e reinventar. Esse sentimento de conquista é atemporal. <br>
 📚 Livros salvam.</br>
-⚡ Fun fact:TI pra mim é totalmente a frase de Sócrate: Só sei que nada sei.</br>
-🤔 I’m looking for help with: Todas as ferramentas utilizadas em front-end.</br>
+⚡ Fun fact:TI pra mim é totalmente a frase de Sócrates: Só sei que nada sei.</br>
+🤔 I’m looking for help with: I need to improve my abilits in Python. So any help or resources are welcome.</br>
 
 ### Contato 
 
