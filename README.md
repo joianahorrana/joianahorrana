@@ -3,7 +3,7 @@
 ### My name is Joiana, welcome to my git.🐈‍⬛
 
 
-👩🏽‍💻 Acadêmica em Análise e Desenvolvimento de Sistemas.</br>
+👩🏽‍💻 Uma eterna Acadêmica na área da Tecnologia</br>
 🌱 Em busca de crescimento intelecutal e profissional.</br>
 💻 Acredito que quando você é desafiado, não somente pelos outros mas por si mesmo, é ainda mais cativante e empolgante. Você olhar para algo em que você dedicou tempo e trabalhou, com certeza te traz maior sentimento de recompensa. E não somente isso, <br>
 você entende que você é sim capaz de criar, inovar e reinventar. Esse sentimento de conquista é atemporal. <br>
